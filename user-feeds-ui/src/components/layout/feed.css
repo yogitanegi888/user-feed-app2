@@ -1,0 +1,20 @@
+.feed-container {
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
+
+.tag-list {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    font-size: 12px;
+}
+
+.tag-list li {
+    margin: 0 3px;
+}
+
+.feed-info {
+    font-size: 14px;
+}

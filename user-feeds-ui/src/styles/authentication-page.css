@@ -1,0 +1,14 @@
+.auth-container {
+    display: flex;
+    justify-content: center;
+}
+
+.form-container {
+    width: 500px;
+    padding: 10px;
+    margin: 20px 10px;
+}
+
+.form-container h3 {
+    margin: 10px 0;
+}
